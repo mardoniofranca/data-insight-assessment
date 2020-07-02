@@ -1,4 +1,3 @@
 .ipnb_checkpoints/
 __pycache__/
-*.ipynb
 *.pyc
