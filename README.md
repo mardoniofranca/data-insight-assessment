@@ -11,13 +11,12 @@ O desafio envolve analisar campanhas de marketing de uma institiução bancária
 ### Objetivo
 
 1. Code:
-   1. Implementar um modelo de classificação com uma performance aceitável
-   1. Conjunto de dados contendo a coluna da previsão, `y'`
+   1. Implementar um modelo de classificação com uma performance aceitável 
+   1. Conjunto de dados contendo a coluna da previsão, `y'` 
 
 1. Insight:
-   1. Elencar e **analisar** quais _features_ são determinantes para aderência de um cliente ao produto
+   1. Elencar e **analisar** quais _features_ são determinantes para aderência de um cliente ao produto 
    1. Descrever um **plano de ação** para futuras campanhas de marketing fundamentado na análise deste conjunto de dados
-
 
 ### Resultados
 
