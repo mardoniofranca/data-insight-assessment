@@ -1,4 +1,4 @@
-,index,age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,predict,index,predict,no,yes
+,index,age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,predict,index,y,no,yes
 0,33003,28,admin.,single,secondary,no,242,yes,yes,cellular,12,may,256,1,349,1,failure,,0,no,0.9736407379684672,0.026359262031532688
 1,12172,43,technician,married,secondary,no,-754,yes,yes,cellular,9,jul,727,3,-1,0,unknown,,1,yes,0.5955617637254902,0.40443823627450975
 2,5192,39,management,married,tertiary,no,-606,yes,no,unknown,26,may,142,1,-1,0,unknown,,2,no,0.9757611209584462,0.02423887904155375
