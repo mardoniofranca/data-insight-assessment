@@ -27,3 +27,5 @@ Todos os notebooks jupyter estão na pasta src
 3. Segmentação dos Clientes: (src/Segm_Clientes.ipynb)
 4. Plano de Ação, um breve caminho (planoacao.md)
 5. Conjunto de Dados com a coluna previsão, 'y' (data/result_campaigns.csv)
+
+obs.: inicialmente, via código, a coluna referente ao resultado era 'pred' e foi modificada manualmente para 'y' afim de garantir com a especificação requisitada.
