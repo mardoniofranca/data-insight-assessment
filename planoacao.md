@@ -18,7 +18,7 @@ management, technican, blue-collar
 #### Estado Civil:
 married
 
-#### De acordo com o grão de instrução
+#### De acordo com o Grau de Iinstrução
 Observar que o grupo de Clientes Positivos para o nível secundário
 apresenta grande dispersão na distribuição do tempo de conversa,
 analisar tal item frente ao Grupo Negativos que para este item apresenta pouca dispersão.
